@@ -21,11 +21,16 @@
         <img src='https://img.shields.io/badge/arXiv-MagicAvatar-blue' alt='Paper PDF'>
         </a>
         <a href='https://magic-avatar.github.io/'>
-        <img src='https://img.shields.io/badge/Project_Page-MagicAvatar-red' alt='Project Page'></a>
+        <img src='https://img.shields.io/badge/Project_Page-MagicAvatar-green' alt='Project Page'></a>
+        <a href='https://www.youtube.com/watch?v=UN7W5oKmWNA'>
+        <img src='https://img.shields.io/badge/YouTube-MagicAvatar-red' alt='Project Page'></a>
   </p>
-  <center>
-    <iframe width="600" height="320" src="https://www.youtube.com/embed/UN7W5oKmWNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-  </center>
+  
+  <table align="center">
+    <td>
+      <video autoplay loop muted src="https://github.com/magic-research/magic-avatar/assetes/8651119/263434155-c953754d-ce75-49ea-80e6-7ea845109577.mp4"></video>
+    </td>
+  </table>
 </p>
 
 *Introducing MagicAvatar, a multi-modal framework capable of converting various input modalities — text, video, and audio — into motion signals that subsequently generate/ animate an avatar.*
