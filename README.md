@@ -35,14 +35,24 @@
 
 *Introducing MagicAvatar, a multi-modal framework capable of converting various input modalities — text, video, and audio — into motion signals that subsequently generate/ animate an avatar.*
 
+For more general video editing applications, please also check our latest work <a href="https://magic-edit.github.io/">MagicEdit</a>!
  
 ## Citing
 If you find our work useful, please consider citing:
 ```BibTeX
-@inproceedings{magicavatar2023,
+@inproceedings{zhang2023magicavatar,
     author    = {Zhang, Jianfeng and Yan, Hanshu and Xu, Zhongcong and Feng, Jiashi and Liew, Jun Hao},
     title     = {MagicAvatar: Multi-modal Avatar Generation and Animation},
     booktitle = {arXiv},
     year      = {2023}
 }
+
+@inproceedings{liew2023magicedit,
+    author    = {Liew, Jun Hao and Yan, Hanshu and Zhang, Jianfeng and Xu, Zhongcong and Feng, Jiashi},
+    title     = {MagicEdit: High-Fidelity and Temporally Coherent Video Editing},
+    booktitle = {arXiv},
+    year      = {2023}
+}
 ```
+
+
