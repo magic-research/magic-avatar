@@ -17,7 +17,7 @@
     ByteDance Inc.
     <br>
     </br>
-        <a href="">
+        <a href="https://arxiv.org/abs/2308.14748">
         <img src='https://img.shields.io/badge/arXiv-MagicAvatar-blue' alt='Paper PDF'>
         </a>
         <a href='https://magic-avatar.github.io/'>
@@ -35,7 +35,7 @@
 
 *Introducing MagicAvatar, a multi-modal framework capable of converting various input modalities — text, video, and audio — into motion signals that subsequently generate/ animate an avatar.*
 
-For more general video editing applications, please also check our latest work <a href="https://magic-edit.github.io/">MagicEdit</a>!
+*For more general video editing applications, please also check our latest work <a href="https://magic-edit.github.io/">MagicEdit</a>!*
  
 ## Citing
 If you find our work useful, please consider citing:
